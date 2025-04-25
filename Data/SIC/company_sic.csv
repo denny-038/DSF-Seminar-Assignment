@@ -1,0 +1,432 @@
+Company,SIC Industry Code
+3M Company,3841.0
+Abbott Laboratories,2834.0
+AbbVie Inc.,2834.0
+Accenture plc,7389.0
+Adobe Inc.,7372.0
+"Advance Auto Parts, Inc.",5531.0
+"Advanced Micro Devices, Inc.",3674.0
+The AES Corporation,4911.0
+"Agilent Technologies, Inc.",3826.0
+"Air Products and Chemicals, Inc.",2812.0
+"Airbnb, Inc.",5169.0
+"Akamai Technologies, Inc.",7389.0
+"Alaska Air Group, Inc.",4512.0
+Albemarle Corporation,2821.0
+"Alexandria Real Estate Equities, Inc.",6798.0
+"Align Technology, Inc.",3842.0
+Allegion plc,7381.0
+Alliant Energy Corporation,4931.0
+Alphabet Inc. (Class A),7370.0
+"Altria Group, Inc.",2111.0
+"Amazon.com, Inc.",5961.0
+Amcor plc,1000.0
+Ameren Corporation,4931.0
+American Airlines Group Inc.,4512.0
+"American Electric Power Company, Inc.",4911.0
+American Tower Corporation,6798.0
+"American Water Works Company, Inc.",4941.0
+"AMETEK, Inc.",3823.0
+Amgen Inc.,2836.0
+Amphenol Corporation,3678.0
+"Analog Devices, Inc.",3674.0
+"ANSYS, Inc.",7372.0
+APA Corporation (formerly Apache),1311.0
+Apple Inc.,3571.0
+"Applied Materials, Inc.",3559.0
+Aptiv plc,3714.0
+Archer-Daniels-Midland Company,6331.0
+"Arista Networks, Inc.",3576.0
+AT&T Inc.,4813.0
+Atmos Energy Corporation,4924.0
+"Autodesk, Inc.",7372.0
+"Automatic Data Processing, Inc.",7374.0
+"AutoZone, Inc.",5531.0
+"AvalonBay Communities, Inc.",6798.0
+Avery Dennison Corporation,5065.0
+"Axon Enterprise, Inc.",2851.0
+Baker Hughes Company,3533.0
+Ball Corporation,3411.0
+"Bath & Body Works, Inc.",3533.0
+Baxter International Inc.,3841.0
+"Becton, Dickinson and Company",3841.0
+"Best Buy Co., Inc.",5731.0
+"Bio-Rad Laboratories, Inc.",3826.0
+Bio-Techne Corporation,2836.0
+Biogen Inc.,2836.0
+The Boeing Company,3721.0
+Booking Holdings Inc.,4724.0
+"Boston Properties, Inc.",6798.0
+Boston Scientific Corporation,3841.0
+Bristol-Myers Squibb Company,2834.0
+Broadcom Inc.,3674.0
+"Broadridge Financial Solutions, Inc.",7389.0
+Brown-Forman Corporation (Class B),2085.0
+"Builders FirstSource, Inc.",5211.0
+Bunge Limited,3577.0
+"C.H. Robinson Worldwide, Inc.",4731.0
+"Cadence Design Systems, Inc.",7372.0
+"Caesars Entertainment, Inc.",7011.0
+Camden Property Trust,6798.0
+Campbell Soup Company,2032.0
+"CarMax, Inc.",5521.0
+Carnival Corporation & plc,4512.0
+Carrier Global Corporation,3585.0
+"Catalent, Inc.",2834.0
+Caterpillar Inc.,3531.0
+"CBRE Group, Inc.",4731.0
+CDW Corporation,5961.0
+Celanese Corporation,2821.0
+"CoreSite Realty Corporation (acquired, formerly)",5122.0
+Centene Corporation,6324.0
+"CenterPoint Energy, Inc.",4911.0
+"CF Industries Holdings, Inc.",2873.0
+"Charles River Laboratories International, Inc.",8731.0
+"Charter Communications, Inc.",4841.0
+Chesapeake Utilities Corporation,4923.0
+Chevron Corporation,2911.0
+"Chipotle Mexican Grill, Inc.",5812.0
+Cigna Group (The Cigna Group),6324.0
+Cintas Corporation,7372.0
+"Cisco Systems, Inc.",3576.0
+The Clorox Company,2842.0
+CMS Energy Corporation,4931.0
+The Coca-Cola Company,2840.0
+Cognizant Technology Solutions,7371.0
+Colgate-Palmolive Company,2844.0
+Comcast Corporation,4841.0
+"Conagra Brands, Inc.",2033.0
+ConocoPhillips,2911.0
+"Consolidated Edison, Inc.",4931.0
+"Constellation Brands, Inc.",2911.0
+Constellation Energy Corporation,4911.0
+"The Cooper Companies, Inc.",3851.0
+"Copart, Inc.",5015.0
+Corning Incorporated,3357.0
+"Corteva, Inc.",2879.0
+"CoStar Group, Inc.",7389.0
+Costco Wholesale Corporation,5331.0
+Coterra Energy Inc.,1311.0
+Crown Castle Inc.,6798.0
+CSX Corporation,4011.0
+Cummins Inc.,3519.0
+CVS Health Corporation,5912.0
+Danaher Corporation,3823.0
+"Darden Restaurants, Inc.",5812.0
+DaVita Inc.,8092.0
+[Ticker “DAY” not widely recognized; possibly a placeholder],7372.0
+Deere & Company,3523.0
+"Delta Air Lines, Inc.",4512.0
+DENTSPLY SIRONA Inc.,3843.0
+Devon Energy Corporation,1311.0
+"DexCom, Inc.",3841.0
+"Diamondback Energy, Inc.",1311.0
+"Digital Realty Trust, Inc.",6798.0
+Dollar General Corporation,5331.0
+"Dollar Tree, Inc.",5331.0
+"Domino’s Pizza, Inc.",5812.0
+"DoorDash, Inc.",7389.0
+Dover Corporation,3569.0
+Dow Inc.,2821.0
+DTE Energy Company,4911.0
+Duke Energy Corporation,4931.0
+DXC Technology Company,7374.0
+Eastman Chemical Company,2821.0
+Eaton Corporation plc,3621.0
+eBay Inc.,7389.0
+Ecolab Inc.,7389.0
+Edwards Lifesciences Corporation,3842.0
+Electronic Arts Inc.,7372.0
+Elevance Health Inc. (formerly Anthem),6324.0
+Eli Lilly and Company,2834.0
+Emerson Electric Co.,3829.0
+"Enphase Energy, Inc.",3674.0
+Entergy Corporation,4911.0
+"EOG Resources, Inc.",1311.0
+"EPAM Systems, Inc.",7371.0
+Equifax Inc.,4911.0
+"Equinix, Inc.",6798.0
+Equity Residential,6798.0
+"Essex Property Trust, Inc.",6798.0
+The Estée Lauder Companies Inc.,2844.0
+"Etsy, Inc.",7389.0
+"Evergy, Inc.",4931.0
+Eversource Energy,4911.0
+Exelon Corporation,4931.0
+"Expedia Group, Inc.",4724.0
+"Expeditors International of Washington, Inc.",4731.0
+Extra Space Storage Inc.,6798.0
+Exxon Mobil Corporation,2911.0
+"F5, Inc.",3576.0
+Fair Isaac Corporation,7389.0
+Fastenal Company,5072.0
+Federal Realty Investment Trust,6798.0
+FedEx Corporation,4513.0
+"First Solar, Inc.",3674.0
+FirstEnergy Corp.,4911.0
+[Not found / possible placeholder],7389.0
+Ford Motor Company,3711.0
+"Fortinet, Inc.",3577.0
+Fortive Corporation,3823.0
+Fox Corporation (Class A),4833.0
+Freeport-McMoRan Inc.,1021.0
+Garmin Ltd.,3812.0
+"Gartner, Inc.",8741.0
+GE HealthCare Technologies Inc.,3844.0
+Gen Digital Inc. (formerly NortonLifeLock),7372.0
+Generac Holdings Inc.,3621.0
+General Dynamics Corporation,3764.0
+General Electric Company,3621.0
+General Motors Company,3711.0
+Genuine Parts Company,5013.0
+"Gilead Sciences, Inc.",2836.0
+Halliburton Company,1389.0
+"Hasbro, Inc.",3944.0
+"HCA Healthcare, Inc.",8062.0
+Physicians Realty Trust (ticker: DOC),6798.0
+"Henry Schein, Inc.",5047.0
+The Hershey Company,2066.0
+Hess Corporation,2911.0
+Hewlett Packard Enterprise Company,3571.0
+Hilton Worldwide Holdings Inc.,7011.0
+"Hologic, Inc.",3844.0
+"The Home Depot, Inc.",5211.0
+Honeywell International Inc.,3724.0
+Hormel Foods Corporation,2011.0
+"D.R. Horton, Inc.",1531.0
+"Host Hotels & Resorts, Inc.",6798.0
+Howmet Aerospace Inc.,3576.0
+HP Inc.,3571.0
+Hubbell Incorporated,7372.0
+Humana Inc.,6324.0
+"J.B. Hunt Transport Services, Inc.",4213.0
+"Huntington Ingalls Industries, Inc.",3731.0
+IDEX Corporation,3561.0
+"IDEXX Laboratories, Inc.",2835.0
+Illinois Tool Works Inc.,3549.0
+"Illumina, Inc.",3826.0
+Incyte Corporation,8731.0
+Ingersoll Rand Inc.,8742.0
+Insulet Corporation,3841.0
+International Business Machines Corporation,7372.0
+International Flavors & Fragrances Inc.,2621.0
+International Paper Company,2621.0
+"The Interpublic Group of Companies, Inc.",7311.0
+Intuit Inc.,7372.0
+"Intuitive Surgical, Inc.",3842.0
+Invitation Homes Inc.,7372.0
+IQVIA Holdings Inc.,8731.0
+Iron Mountain Incorporated,6798.0
+The J. M. Smucker Company,2033.0
+Jabil Inc.,3672.0
+Jacobs Solutions Inc.,8711.0
+Johnson & Johnson,2834.0
+Johnson Controls International plc,3585.0
+"Juniper Networks, Inc.",3576.0
+Kellogg Company,2043.0
+Kenvue Inc.,2844.0
+Keurig Dr Pepper Inc.,2844.0
+"Keysight Technologies, Inc.",3823.0
+Kimberly-Clark Corporation,2676.0
+Kimco Realty Corporation,6798.0
+"Kinder Morgan, Inc.",4922.0
+KLA Corporation,3827.0
+The Kraft Heinz Company,2032.0
+The Kroger Co.,5411.0
+"L3Harris Technologies, Inc.",3812.0
+Laboratory Corporation of America Holdings,8071.0
+Lam Research Corporation,3559.0
+"Lamb Weston Holdings, Inc.",3559.0
+"Leidos Holdings, Inc.",7373.0
+Lennar Corporation,1531.0
+Lincoln National Corporation,6311.0
+Linde plc,2813.0
+"Live Nation Entertainment, Inc.",7922.0
+LKQ Corporation,3812.0
+Lockheed Martin Corporation,3761.0
+"Lowe’s Companies, Inc.",5211.0
+Lululemon Athletica Inc.,4813.0
+"Lumen Technologies, Inc.",4813.0
+LyondellBasell Industries N.V.,3674.0
+Marathon Oil Corporation,1311.0
+Marathon Petroleum Corporation,2911.0
+"Marriott International, Inc.",7011.0
+"Martin Marietta Materials, Inc.",2911.0
+Masco Corporation,6331.0
+"Match Group, Inc.",7374.0
+"McCormick & Company, Incorporated",2099.0
+McDonald’s Corporation,5812.0
+McKesson Corporation,5122.0
+Medtronic plc,3845.0
+"Merck & Co., Inc.",2834.0
+"Meta Platforms, Inc.",7375.0
+Mettler-Toledo International Inc.,3826.0
+MGM Resorts International,7011.0
+Microchip Technology Incorporated,3674.0
+"Micron Technology, Inc.",3674.0
+Microsoft Corporation,7372.0
+"Moderna, Inc.",2836.0
+"Mohawk Industries, Inc.",2273.0
+"Molina Healthcare, Inc.",6324.0
+Molson Coors Beverage Company,2082.0
+"Mondelez International, Inc.",2099.0
+"Monolithic Power Systems, Inc.",3674.0
+Monster Beverage Corporation,2086.0
+The Mosaic Company,2874.0
+"Motorola Solutions, Inc.",3663.0
+"NetApp, Inc.",3572.0
+"Netflix, Inc.",7841.0
+Newell Brands Inc.,3089.0
+Newmont Corporation,3999.0
+News Corporation,2711.0
+"NextEra Energy, Inc.",4911.0
+"NIKE, Inc.",3021.0
+NiSource Inc.,4931.0
+Nordson Corporation,3569.0
+Norfolk Southern Corporation,4011.0
+Northrop Grumman Corporation,3812.0
+Norwegian Cruise Line Holdings Ltd.,4481.0
+"NRG Energy, Inc.",4911.0
+Nucor Corporation,3312.0
+NVIDIA Corporation,3674.0
+"NVR, Inc.",1531.0
+NXP Semiconductors N.V.,3674.0
+"O’Reilly Automotive, Inc.",5531.0
+Occidental Petroleum Corporation,1311.0
+"Old Dominion Freight Line, Inc.",4213.0
+Omnicom Group Inc.,7311.0
+ON Semiconductor Corporation,3674.0
+"ONEOK, Inc.",4923.0
+Oracle Corporation,7372.0
+Organon & Co.,2834.0
+Otis Worldwide Corporation,3534.0
+PACCAR Inc.,3711.0
+Packaging Corporation of America,2653.0
+"Palo Alto Networks, Inc.",3577.0
+Paramount Global,4833.0
+Parker-Hannifin Corporation,3490.0
+"Paychex, Inc.",7389.0
+"Paycom Software, Inc.",7372.0
+"PENN Entertainment, Inc.",7011.0
+Pentair plc,3561.0
+"PepsiCo, Inc.",2086.0
+Pfizer Inc.,2834.0
+PG&E Corporation,4931.0
+Philip Morris International Inc.,2111.0
+Phillips 66,2911.0
+Pinnacle West Capital Corporation,4911.0
+Pool Corporation,5091.0
+"PPG Industries, Inc.",2851.0
+PPL Corporation,4911.0
+The Procter & Gamble Company,2840.0
+"Prologis, Inc.",6798.0
+PTC Inc.,7372.0
+Public Service Enterprise Group Incorporated,4931.0
+Public Storage,6798.0
+"PulteGroup, Inc.",1531.0
+"Qorvo, Inc.",3674.0
+QUALCOMM Incorporated,3663.0
+"Quanta Services, Inc.",1731.0
+Quest Diagnostics Incorporated,8071.0
+Ralph Lauren Corporation,2389.0
+Realty Income Corporation,6798.0
+"Regeneron Pharmaceuticals, Inc.",2834.0
+"Republic Services, Inc.",4953.0
+ResMed Inc. (primary listing ASX),3841.0
+"Revvity, Inc. (formerly part of PerkinElmer)",3826.0
+Robert Half Inc.,7363.0
+"Rockwell Automation, Inc.",3829.0
+"Rollins, Inc.",7342.0
+"Roper Technologies, Inc.",3823.0
+"Ross Stores, Inc.",5651.0
+Royal Caribbean Group,4481.0
+RTX Corporation (formerly Raytheon Technologies),3724.0
+"Salesforce, Inc.",7372.0
+SBA Communications Corporation,6798.0
+Schlumberger Limited,1389.0
+Seagate Technology Holdings plc,3572.0
+Sealed Air Corporation,7996.0
+Sempra,4932.0
+"ServiceNow, Inc.",7372.0
+The Sherwin-Williams Company,2851.0
+"Simon Property Group, Inc.",6798.0
+"Skyworks Solutions, Inc.",3674.0
+A. O. Smith Corporation,3430.0
+Snap-on Incorporated,3423.0
+"SolarEdge Technologies, Inc.",3674.0
+The Southern Company,4911.0
+Southwest Airlines Co.,4512.0
+"Stanley Black & Decker, Inc.",3423.0
+Starbucks Corporation,5812.0
+"Steel Dynamics, Inc.",3312.0
+STERIS plc,3842.0
+Stryker Corporation,3841.0
+"Synopsys, Inc.",7372.0
+Sysco Corporation,5141.0
+"T-Mobile US, Inc.",4812.0
+"Take-Two Interactive Software, Inc.",7372.0
+"Tapestry, Inc.",3171.0
+Targa Resources Corp.,4922.0
+Target Corporation,5331.0
+TE Connectivity Ltd.,3679.0
+Teledyne Technologies Incorporated,3812.0
+Teleflex Incorporated,3841.0
+"Teradyne, Inc.",3825.0
+"Tesla, Inc.",3711.0
+Texas Instruments Incorporated,3674.0
+Textron Inc.,3721.0
+Thermo Fisher Scientific Inc.,3829.0
+"The TJX Companies, Inc.",5651.0
+"TKO Group Holdings, Inc. (WWE+UFC)",7922.0
+Tractor Supply Company,5191.0
+Trane Technologies plc,3822.0
+TransDigm Group Incorporated,3728.0
+Trimble Inc.,3829.0
+"Tyler Technologies, Inc.",7372.0
+"Tyson Foods, Inc.",2015.0
+"Uber Technologies, Inc.",7389.0
+"UDR, Inc.",6798.0
+"Ulta Beauty, Inc.",5999.0
+Union Pacific Corporation,4011.0
+"United Airlines Holdings, Inc.",4512.0
+"United Parcel Service, Inc.",7359.0
+"United Rentals, Inc.",7359.0
+UnitedHealth Group Incorporated,6324.0
+"Universal Health Services, Inc.",8062.0
+V.F. Corporation,2389.0
+Valero Energy Corporation,2911.0
+Ventas Inc.,6798.0
+Veralto Corporation (Danaher spin-off),3825.0
+"VeriSign, Inc.",7371.0
+"Verisk Analytics, Inc.",7374.0
+Verizon Communications Inc.,4813.0
+Vertex Pharmaceuticals Incorporated,2834.0
+Viatris Inc.,2834.0
+VICI Properties Inc.,6798.0
+Vistra Corp.,4911.0
+Vornado Realty Trust,6798.0
+Vulcan Materials Company,1423.0
+"W.W. Grainger, Inc.",5085.0
+"Walgreens Boots Alliance, Inc.",5912.0
+Walmart Inc.,5331.0
+The Walt Disney Company,4841.0
+"Warner Bros. Discovery, Inc.",4841.0
+"Waste Management, Inc.",4953.0
+Waters Corporation,3826.0
+"WEC Energy Group, Inc.",4931.0
+Welltower Inc.,6798.0
+"West Pharmaceutical Services, Inc.",3841.0
+Western Digital Corporation,3572.0
+Westinghouse Air Brake Technologies Corporation (Wabtec),3743.0
+Weyerhaeuser Company,6798.0
+Whirlpool Corporation,3639.0
+"The Williams Companies, Inc.",4922.0
+"Williams-Sonoma, Inc.",5719.0
+"Wynn Resorts, Limited",7011.0
+Xcel Energy Inc.,4931.0
+Xylem Inc.,3561.0
+"Yum! Brands, Inc.",5812.0
+Zebra Technologies Corporation,3577.0
+"Zimmer Biomet Holdings, Inc.",3842.0
+"Zions Bancorporation, N.A.",6021.0
+Zoetis Inc.,2834.0
