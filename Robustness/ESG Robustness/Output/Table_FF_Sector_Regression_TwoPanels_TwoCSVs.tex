@@ -1,0 +1,33 @@
+\begin{table}[ht]
+\centering
+\small
+\renewcommand{\arraystretch}{1.2}
+\setlength{\tabcolsep}{6pt}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{l|ccccccccc}
+\hline
+ & $\alpha$ & $\beta_{SMB}$ & $\beta_{HML}$ & $\beta_{MKRf}$ & $\beta_{ENV\_Score}$ & $\beta_{ENV\_Sentiment}$ & $R^2$ & Adj. $R^2$ & Obs. \\
+\hline
+\multicolumn{9}{c}{\textbf{Panel A: Fama-French Factors Only}} \\
+\hline
+Consumer & -0.0024 & 0.1404 & 0.0699 & 1.1166 &  &  & 0.4506 & 0.4256 & 1400 \\
+         & (0.01) & (0.54) & (0.38) & (0.34) &  &  &  &  &  \\
+Energy & Utilities & -0.0017 & -0.2773 & 0.4561 & 0.7438 &  &  & 0.3447 & 0.3149 & 980 \\
+                   & (0.00) & (0.28) & (0.45) & (0.35) &  &  &  &  &  \\
+Industrials & -0.0017 & 0.0621 & 0.2305 & 0.9676 &  &  & 0.4107 & 0.3840 & 2520 \\
+            & (0.01) & (0.47) & (0.37) & (0.49) &  &  &  &  &  \\
+\hline
+\multicolumn{9}{c}{\textbf{Panel B: Fama-French + ENV Factors}} \\
+\hline
+Consumer & -0.0076 & 0.1336 & 0.0535 & 1.1248 & 0.3568 & 0.0119 & 0.4641 & 0.4222 & 1400 \\
+         & (0.09) & (0.54) & (0.38) & (0.34) & (2.85) & (0.17) &  &  &  \\
+Energy & Utilities & -0.0462 & -0.2532 & 0.4420 & 0.7775 & 1.0227 & 0.0214 & 0.3688 & 0.3195 & 910 \\
+                   & (0.12) & (0.27) & (0.47) & (0.37) & (3.44) & (0.29) &  &  &  \\
+Industrials & 0.0023 & 0.0525 & 0.2433 & 0.9682 & -0.0642 & -0.0612 & 0.4340 & 0.3897 & 2520 \\
+            & (0.06) & (0.47) & (0.39) & (0.48) & (3.61) & (0.17) &  &  &  \\
+\hline
+\end{tabular}
+}
+\caption{Comparison of Regression Results: Fama-French vs Fama-French + ENV factors. STD in brackets}
+\label{tab:ff_macro_sector_two_panels}
+\end{table}
