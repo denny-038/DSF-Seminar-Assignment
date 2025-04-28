@@ -16,6 +16,7 @@ We apply these variables to Fama-French three- and five-factor models across 70 
 - **Data**:
 - **Data_Processing**:
 - **FF3 FF5**:
+  The FF3 FF5 folder contains the analysis where I first perform Fama-French three- and five-factor regressions using only standard factors, and then extend the models by adding firm-specific environmental variables (ENV Score and ENV Sentiment) to assess their contribution to explaining stock returns. It also includes the trend analysis of ENV Score and ENV Sentiment over time.
 - **Robustness**/**5Factor**:
 - **Robustness**/**ESG Robustness**:
 - **Robustness**/**Train_Test_Split**:
