@@ -1,0 +1,15 @@
+pandas
+numpy
+nltk
+torch
+datasets
+transformers
+evaluate
+scikit-learn
+statsmodels
+matplotlib
+seaborn
+spacy
+requests
+beautifulsoup4
+sec-cik-mapper
