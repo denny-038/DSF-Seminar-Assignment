@@ -22,7 +22,14 @@ We apply these variables to Fama-French three- and five-factor models across 70 
 - **Robustness**/**Train_Test_Split**:
 
 
+*Note:* The extracted item data from the 10-K filings is not included in the "Data" folder because the file sizes exceed GitHub’s maximum upload limit.
 
+## Setup
+
+To install all required Python packages, simply run:
+
+```bash
+pip install -r requirements.txt
 
 ## Authors
 
