@@ -11,6 +11,7 @@ We apply these variables to Fama-French three- and five-factor models across 70 
 
 ## Repository Structure
 
+- **10%_Portfolio**:
 - **Climate-Bert**:
 - **Data**:
 - **Data_Processing**:
@@ -18,7 +19,6 @@ We apply these variables to Fama-French three- and five-factor models across 70 
 - **Robustness**/**ESG Robustness**:
 - **Robustness**/**5Factor**:
 - **Robustness**/**Train_Test_Split**:
-- **10%_Portfolios**:
 
 
 
