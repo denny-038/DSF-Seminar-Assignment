@@ -27,5 +27,8 @@ We apply these variables to Fama-French three- and five-factor models across 70 
 
 Ohaness Alokpa, Andrea Zoccarato, Ching-Wei Su, Safa Berber, Purev-Ochir Byambajav
 
+### Ohaness Alokpa
+My contribution focused on performing the Fama-French three- and five-factor regressions, first using only standard factors and then incorporating firm-specific environmental measures (ENV Score and ENV Sentiment) to evaluate the impact of environmental disclosure on the cross-section of U.S. stock returns. Additionally, I provided the trend analysis of ENV Score and ENV Sentiment over time. This work is contained in the FF3 FF5 folder.
+
 EUR 2024-25 Data Science For Finance
 
