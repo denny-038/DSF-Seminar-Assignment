@@ -38,18 +38,21 @@ We apply these variables to Fama-French three- and five-factor models across 70 
 - **Robustness**/**Train_Test_Split**:
 
 
-
-
 ## Setup
 
 To install all required Python packages, simply run:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Authors
 
-Ohaness Alokpa, Andrea Zoccarato, Ching-Wei Su, Safa Berber, Purev-Ochir Byambajav
+- Ohaness Alokpa  
+- Andrea Zoccarato  
+- Ching-Wei Su  
+- Safa Berber  
+- Purev-Ochir Byambajav  
 
-EUR 2024-25 Data Science For Finance
+Master in Data Science for Finance — EUR 2024–2025
 
