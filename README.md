@@ -44,8 +44,8 @@ Contains the code and datasets used for the analysis. It includes the Fama-Frenc
   - Input: all the datasets needed to run the code,
   - Output: all the tables produced by the code.
 
-- **Robustness**/**Train_Test_Split**:
-
+- **Robustness**/**Train_Test_Split**:  
+We used an 80/20 train-test split to evaluate model generalization, training each model on 80% of the data and testing on the remaining 20%. Three models were compared: linear regression, ridge regression (with alpha = 1.0), and random forest (with 100 estimators and default settings).
 
 ## Setup
 
